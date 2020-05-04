@@ -20,4 +20,4 @@ element[i].addEventListener('click',function(){
 },false);
 }
 
-console.log(localStorage.getItem('page-color'));
+
